@@ -7,3 +7,4 @@ _ReSharper.jQueryFileUpload
 /jQueryFileUpload/obj
 /jQueryFileUpload/bin
 packages
+\.vs/
