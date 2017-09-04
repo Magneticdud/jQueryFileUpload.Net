@@ -1,3 +1,5 @@
 A very basic framework around jQueryFileUpload scripts, to host in ASP.Net.
 
-This project is no longer maintained. Please see https://github.com/blueimp/jQuery-File-Upload/wiki#aspnet for alternatives, or one of this project's forks.
+[The original project](https://github.com/i-e-b/jQueryFileUpload.Net) is no longer maintained.
+
+I try to see if I can fix something... or maybe break it...
