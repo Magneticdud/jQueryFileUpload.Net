@@ -90,12 +90,8 @@
     <Content Include="8.1.0\server\node\server.js" />
     <Content Include="8.1.0\test\index.html" />
     <Content Include="8.1.0\test\test.js" />
-    <Content Include="Custom.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="images\pbar-ani.gif" />
-    <Content Include="scripts\Custom\jquery.fileupload.bootstrap.js" />
-    <Content Include="scripts\Custom\jquery.iframe-transport.js" />
-    <Content Include="styles\Custom\style.css" />
     <Content Include="styles\Default\jquery.fileupload-ui.css" />
     <Content Include="scripts\Default\jquery.fileupload-ui.js" />
     <Content Include="scripts\Default\jquery.fileupload.js" />
